@@ -962,7 +962,7 @@
   ttl-deletion)
 
 (defn connect
-  ""
+  "Set database file path if needed and execute ttl-deletion function"
   [& [file-path-p]]
   (when file-path-p
     (reset!

@@ -11,7 +11,7 @@ Simplified db-lib project was ment to simulate mongo database.
 You can use this project as dependencie in clojure projects by listing it in project.clj
 
 ```
-[org.clojars.vladimirmarkovic/db-lib "0.1.0"]
+[org.clojars.vladimirmarkovic86/db-lib "0.1.0"]
 ```
 
 ## Authors

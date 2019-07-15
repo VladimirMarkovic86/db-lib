@@ -8,8 +8,5 @@
 
   :min-lein-version "2.0.0"
   
-  :source-paths ["src/clj"]
-  
-  :jar-exclusions [#"README.md$"
-                   #"LICENSE$"])
+  :source-paths ["src/clj"])
 
